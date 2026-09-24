@@ -13,7 +13,7 @@ def show_menu():
 def main():
     while True:
         show_menu()
-        choice = input ('Select an option 1-4: ')
+        choice = input('Select an option 1-4: ')
 
         if choice == '1':
             add_sale()
@@ -49,3 +49,4 @@ def clear_data():
     print()
     exit()
 
+main()
