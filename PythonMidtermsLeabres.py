@@ -48,3 +48,4 @@ def view_records():
 def clear_data():
     print()
     exit()
+
