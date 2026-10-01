@@ -78,11 +78,6 @@ print('Quantity sold:', quantity_sold)
 print('Price per unit:', price)
 print('Total amount:', total )
 
-
-
-
-
-
     # Choice 3
 def clear_data():
     try:
