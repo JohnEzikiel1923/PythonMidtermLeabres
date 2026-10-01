@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce97b7c2-3c8b-4a67-82db-8fc8c3552d81" name="Changes" comment="Midterms Leabres" />
+    <list default="true" id="ce97b7c2-3c8b-4a67-82db-8fc8c3552d81" name="Changes" comment="Midterms Leabres">
+      <change beforePath="$PROJECT_DIR$/PythonMidtermsLeabres.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonMidtermsLeabres.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790857825409</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Midterms Leabres">
+      <option name="closed" value="true" />
+      <created>1790858058121</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790858058121</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

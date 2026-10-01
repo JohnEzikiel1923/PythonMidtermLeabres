@@ -73,10 +73,10 @@ def view_records():
     except ValueError:
         print('Invalid record found.')
 
-print('Item name:', item_name)
-print('Quantity sold:', quantity_sold)
-print('Price per unit:', price)
-print('Total amount:', total )
+    print('Item name:', item_name)
+    print('Quantity sold:', quantity_sold)
+    print('Price per unit:', price)
+    print('Total amount:', total)
 
     # Choice 3
 def clear_data():
